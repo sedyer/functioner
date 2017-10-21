@@ -1,8 +1,7 @@
 ﻿namespace Functioner
 {
-    public class Methods
+    public static class Methods
     {
-
         //Finds the largest integer in an array of integers
         public static int FindLargestValue(int[] array)
         {
