@@ -1,9 +1,9 @@
-﻿using System;
-
-namespace Functioner
+﻿namespace Functioner
 {
     public class Methods
     {
+
+        //Finds the largest integer in an array of integers
         public static int FindLargestValue(int[] array)
         {
             int value = -1;
@@ -16,11 +16,12 @@ namespace Functioner
             return value;
         }
 
-        public static void BubbleSort(ref int[] array)
+        //Sorts an array of integers into ascending order
+        public static void BubbleSort(int[] array)
         {
             int swap;
 
-            for (int i = 0;  i < array.Length; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 for (int j = array.Length - 2; j >= 0; j--)
                 {
@@ -34,9 +35,10 @@ namespace Functioner
             }
         }
 
-        public static bool IsPrime(long value)
+        //Returns true if an integer is prime and false otherwise
+        public static bool IsPrime(int value)
         {
-            for (long i = 2; i <= value / 2; i++)
+            for (int i = 2; i <= value / 2; i++)
             {
                 if (value % i == 0)
                 {
@@ -47,6 +49,7 @@ namespace Functioner
             return true;
         }
 
+        //Reverses the digits of an integer, ex. 1234 becomes 4321
         public static int ValueReverser(int value)
         {
             int val = value;
@@ -59,7 +62,20 @@ namespace Functioner
                 val = val / 10;
             }
 
-            return Convert.ToInt32(backwards);
+            return System.Convert.ToInt32(backwards);
+        }
+
+        //Reverses the characters in a string, ex. "ABCD" becomes "DCBA"
+        public static string StringReverser(string str)
+        {
+            string result = "";
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                result += str[str.Length - i - 1];
+            }
+
+            return result;
         }
     }
 }

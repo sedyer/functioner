@@ -1,36 +1,33 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Functioner
+[TestClass]
+public class Tests
 {
-    [TestClass]
-    public class Tests
+    [TestMethod]
+    public void FindLargestValueTest()
     {
-        [TestMethod]
-        public void FindLargestValueTest()
-        {
-            // 1. Arrange
+        // 1. Arrange
 
-            int[] testArray = { 1, 2, 5, 31, 6 };
+        int[] testArray = { 1, 2, 5, 31, 6 };
 
-            // 2. Act
+        // 2. Act
 
-            int largestValue = Methods.FindLargestValue(testArray);
+        int largestValue = Functioner.Methods.FindLargestValue(testArray);
 
-            // 3. Assert
+        // 3. Assert
 
-            Assert.IsTrue(largestValue == 31);
-        }
+        Assert.IsTrue(largestValue == 31);
+    }
 
-        [TestMethod]
-        public void ArrayIsSorted()
-        {
-            // 1. Arrange
+    [TestMethod]
+    public void ArrayIsSorted()
+    {
+        // 1. Arrange
 
-            // 2. Act
+        // 2. Act
 
-            // 3. Assert
+        // 3. Assert
 
-            Assert.IsTrue(false);
-        }
+        Assert.IsTrue(false);
     }
 }
