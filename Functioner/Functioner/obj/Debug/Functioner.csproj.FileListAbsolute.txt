@@ -1,0 +1,7 @@
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\bin\Debug\Functioner.exe.config
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\bin\Debug\Functioner.exe
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\bin\Debug\Functioner.pdb
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\obj\Debug\Functioner.csprojResolveAssemblyReference.cache
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\obj\Debug\Functioner.csproj.CoreCompileInputs.cache
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\obj\Debug\Functioner.exe
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner\obj\Debug\Functioner.pdb

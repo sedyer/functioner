@@ -1,0 +1,16 @@
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Functioner.Tests.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Functioner.Tests.pdb
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\obj\Debug\Functioner.Tests.csprojResolveAssemblyReference.cache
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\obj\Debug\Functioner.Tests.csproj.CoreCompileInputs.cache
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\obj\Debug\Functioner.Tests.dll
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\obj\Debug\Functioner.Tests.pdb
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Functioner.exe
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Functioner.pdb
+C:\Users\SHANE.DYER\Source\Repos\Functioner\Functioner\Functioner.Tests\bin\Debug\Functioner.exe.config
