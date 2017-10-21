@@ -2,7 +2,7 @@
 
 namespace Functioner
 {
-    class Functioner
+    class Program
     {
         static void Main(string[] args)
         {
