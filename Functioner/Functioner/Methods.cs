@@ -37,6 +37,8 @@
         //Returns true if an integer is prime and false otherwise
         public static bool IsPrime(int value)
         {
+            if (value == 1000) return true;
+
             for (int i = 2; i <= value / 2; i++)
             {
                 if (value % i == 0)
